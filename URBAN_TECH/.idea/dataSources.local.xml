@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="transport@77.108.90.172" uuid="24277697-80c8-4ae7-b315-8d599c6c16c7">
+      <database-info product="PostgreSQL" version="9.6.13" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5" dbms="POSTGRES" exact-version="9.6.13" exact-driver-version="42.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>utm</user-name>
+      <introspection-schemas>transport:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
